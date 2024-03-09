@@ -1,0 +1,13 @@
+.box{
+    border: 2px solid tomato;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+}
+.box-set{
+    border: 2px solid green;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 20px;
+    color:rgb(222, 222, 245)
+}
